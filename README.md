@@ -11,24 +11,13 @@ Alongside my academic journey, I’ve independently explored both frontend and b
 🚀 Passionate about blending design and code to create impactful, accessible, and scalable solutions.
 
 ### 🌱 I’m currently learning  
-React ⚛️, TailwindCSS 🌬️, Firebase 🔥, and AI/ML fundamentals 🧠
+React ⚛️, TailwindCSS 🌬️, UI & UX , and Core subjects of Computer Science And Engineering 👨‍💻
 
 
 ### 📫 How to reach me  
-📧 upasana@example.com  
-📱 [LinkedIn](https://linkedin.com/in/upasana)
+📧 upasanasinghh23@gmail.com  
+📱 [LinkedIn](https://www.linkedin.com/in/upasana-singh-0826372a9)
 
-### 👨‍💻 All of my projects are available at  
-🌐 [My Portfolio](https://your-portfolio-link.com)
-
-### 📝 I regularly write articles on  
-✍️ [My Blog](https://your-blog-link.com)
-
-### 📄 Know about my experiences  
-📃 [My Resume](https://your-resume-link.com)
-
-### ⚡ Fun fact  
-I think I am funny 😄
 
 ---
 
@@ -56,8 +45,9 @@ I think I am funny 😄
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### Others    
+### 🧩 Others  
 ![Figma](https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white)  
+![Unity](https://img.shields.io/badge/unity-000000?style=flat&logo=unity&logoColor=white)
 
 ---
 
@@ -69,16 +59,12 @@ I think I am funny 😄
 ---
 
 ## 🏆 GitHub Trophies  
-[![trophy](https://github-profile-trophy.vercel.app/?username=your-username&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Upasana-1204&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 📫 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/upasana)  
-[![Dev.to](https://img.shields.io/badge/dev.to-000000?style=flat&logo=devdotto&logoColor=white)](https://dev.to/yourusername)  
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white)](https://hashnode.com/@yourusername)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@yourusername)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@yourchannel)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/upasana-singh-0826372a9)  
 
 ---
 
