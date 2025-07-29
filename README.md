@@ -6,6 +6,8 @@ Alongside my academic journey, I’ve independently explored both frontend and b
 ---
 
 ### 
+
+
 🔭 Building innovative user experiences and working on real-world projects that solve meaningful problems.
 🌱 Growing as a developer while sharing knowledge and collaborating with diverse tech communities.
 🚀 Passionate about blending design and code to create impactful, accessible, and scalable solutions.
