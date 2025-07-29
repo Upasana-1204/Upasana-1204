@@ -1,34 +1,35 @@
-<h1 align="center">Hello 👋,</h1>
+<h1 align="center">Hello 👋, I'm Upasana Singh</h1>
 
 <p align="center">
-  <b>I am Upasana Singh</b>, a <b>CSE student</b> with a passion for <b>frontend development</b> and <b>creative problem-solving</b>.<br>
-  I specialize in crafting <b>visually engaging</b>, <b>responsive</b>, and <b>user-centric interfaces</b> that offer smooth and intuitive digital experiences.
-</p>
-
-<p align="center">
-  Alongside my academic journey, I’ve independently explored both frontend and backend technologies,<br>
-  aiming to build solutions that are not only <b>functional</b> but also <b>meaningful</b> and <b>accessible</b> to real-world users.
+🎓 CSE student | 🌐 Frontend Developer | 💡 Creative Problem Solver  
 </p>
 
 ---
 
-### 🚀 About Me  
-🧩 **Building** innovative user experiences and working on real-world projects that solve meaningful problems.  
-🌱 **Growing** as a developer while sharing knowledge and collaborating with diverse tech communities.  
-🎨 **Passionate** about blending design and code to create impactful, accessible, and scalable solutions.
+<p align="center">
+I’m a passionate and self-driven developer focused on building visually engaging, responsive, and user-centered interfaces that deliver seamless digital experiences.  
+</p>
+
+<p align="center">
+Alongside my academic journey, I’ve explored both frontend and backend technologies to create solutions that are not only functional but also meaningful and accessible to real-world users.
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🔭 Building innovative user experiences and working on real-world projects that solve meaningful problems.  
+- 🌱 Growing as a developer while sharing knowledge and collaborating with diverse tech communities.  
+- 💻 Passionate about blending design and code to create impactful, accessible, and scalable solutions.  
 
 ---
 
 ### 🌱 I’m currently learning  
-React ⚛️, TailwindCSS 🌬️, UI/UX 🎨, and Core subjects of Computer Science & Engineering 👩‍💻
+
+React ⚛️, TailwindCSS 🌬️, UI/UX 🎨, and core subjects of Computer Science & Engineering 👩‍💻
 
 ---
 
-### 📫 How to reach me  
-📧 [upasanasinghh23@gmail.com](mailto:upasanasinghh23@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/upasana-singh-0826372a9)
-
----
 
 
 ## 🛠️ Skills
@@ -74,7 +75,9 @@ React ⚛️, TailwindCSS 🌬️, UI/UX 🎨, and Core subjects of Computer Sci
 ---
 
 ## 📫 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/upasana-singh-0826372a9)  
+
+📧 [upasanasinghh23@gmail.com](mailto:upasanasinghh23@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/upasana-singh-0826372a9)
 
 ---
 
