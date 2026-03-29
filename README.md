@@ -38,10 +38,6 @@ React, TailwindCSS , UI/UX , and core subjects of Computer Science & Engineering
 
 ---
 
-## GitHub Trophies  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Upasana-1204&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ## Connect with me  
 
